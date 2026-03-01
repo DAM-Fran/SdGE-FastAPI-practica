@@ -51,6 +51,12 @@ fastapi dev main.py
 
 ---
 
+## Screenshots de la aplicación en pantalla
+
+![Captura de la aplicación](Captura API docs.png)
+
+---
+
 ## Estructura del proyecto
 ```
 practica/
