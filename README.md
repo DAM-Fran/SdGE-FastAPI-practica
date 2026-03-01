@@ -35,10 +35,15 @@ git clone https://github.com/DAM-Fran/SdGE-FastAPI-practica
 ```
 
 ### 2. Instalar dependencias
-Desde el directorio del proyecto: pip install fastapi sqlmodel fastapi[standard]
+Desde el directorio del proyecto:
+```bash
+pip install fastapi sqlmodel fastapi[standard]
+```
 
 ### 3. Ejecutar la API
+```bash
 fastapi dev main.py
+```
 
 ### 4. Acceder a la documentación interactiva
 Documentación Swagger UI: http://127.0.0.1:8000/docs (127.0.0.1 in Bing)
@@ -47,6 +52,7 @@ Documentación alternativa ReDoc: http://127.0.0.1:8000/redoc (127.0.0.1 in Bing
 ---
 
 ## Estructura del proyecto
+```
 practica/
 │
 ├── models/               → Modelos de datos (Empleado, Departamento)
@@ -57,7 +63,7 @@ practica/
 ├── main.py               → Punto de entrada de la API
 ├── __init__.py
 └── README.md
-
+```
 ---
 
 ## Funcionamiento interno
@@ -82,7 +88,7 @@ app.include_router(empleados.router)
 
 ## Licencia
 
-Proyecto académico desarrollado para la asignatura **Sistemas de Gestión Empresarial (SGE)**.
+Proyecto académico desarrollado para la asignatura de **Sistemas de Gestión Empresarial (SGE)**.
 
 ---
 
