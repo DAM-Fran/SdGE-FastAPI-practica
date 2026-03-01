@@ -51,7 +51,7 @@ fastapi dev main.py
 
 ---
 
-## Screenshots de la aplicación en pantalla
+## Screenshot de la documentación de la API
 
 ![Captura de la aplicación](Captura%20API%20docs.png)
 
