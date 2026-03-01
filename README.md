@@ -46,8 +46,8 @@ fastapi dev main.py
 ```
 
 ### 4. Acceder a la documentación interactiva
-Documentación Swagger UI: http://127.0.0.1:8000/docs (127.0.0.1 in Bing)
-Documentación alternativa ReDoc: http://127.0.0.1:8000/redoc (127.0.0.1 in Bing)
+- Documentación Swagger UI: http://127.0.0.1:8000/docs (127.0.0.1 in Bing)
+- Documentación alternativa ReDoc: http://127.0.0.1:8000/redoc (127.0.0.1 in Bing)
 
 ---
 
