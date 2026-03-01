@@ -101,4 +101,4 @@ Proyecto académico desarrollado para la asignatura de **Sistemas de Gestión Em
 ## Autor
 
 **Franco Cayo**  
-Alumno de 2º de Desarrollo de Aplicaciones Multiplataforma – Curso 2025/2026
+alumno de 2º de Desarrollo de Aplicaciones Multiplataforma – Curso 2025/2026
